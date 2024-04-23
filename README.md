@@ -8,5 +8,5 @@ My name is Nguyen Tan Phong. I am a Fresher in Java. I graduated from Danang Uni
 
 <a href="https://github.com/Phongkute1412/GuessProvinceGame">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phongkute1412&repo=GuessProvinceGame&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phongkute1412&repo=GuessProvinceGame&theme=merko" />
 </a>
