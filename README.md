@@ -6,7 +6,7 @@ My name is Nguyen Tan Phong. I am a Fresher in Java. I graduated from Danang Uni
 
 <!-- ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
 
-<a href="https://github.com/Phongkute1412/GuessProvinceGame">
+<a href="https://github.com/Phongkute1412/Game-guess-Vietnam-province-by-the-license-plate/tree/main">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="github-readme-stats.vercel.app/api/pin/?username=Phongkute1412&repo=GuessProvinceGame&theme=merko" />
+  <img align="center" src="github-readme-stats.vercel.app/api/pin/?username=Phongkute1412&repo=Game-guess-Vietnam-province-by-the-license-plate&theme=merko" />
 </a>
